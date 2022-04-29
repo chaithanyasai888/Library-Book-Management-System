@@ -20,5 +20,5 @@ In this project, we will develop a library management system that will help us i
 
 
 # Interface of the applicattion
-![image](https://user-images.githubusercontent.com/104614951/165912088-a082875e-885d-4e59-8614-153761d49539.png)
+![image](https://user-images.githubusercontent.com/104614951/165912260-7c8d8506-469c-4b7a-85ac-3c44e8feb436.png)
 
